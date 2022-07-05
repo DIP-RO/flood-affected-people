@@ -1,0 +1,45 @@
+.back-side {
+    background-image: url(images/donation6.jpg);
+    position: absolute;
+    width: 1440px;
+    height: 669px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    right: 20px;
+    left: 30px;
+    padding: 10px;
+    background: linear-gradient(18, 18, 18, 0);
+
+
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+    margin-bottom: -180px;
+    color: white;
+    margin-top: 200px;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 220px;
+    color: white;
+    margin-bottom: 60px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgb(228, 99, 52);
+    color: white;
+    font-weight: 700;
+    margin: 100px 0px 0px 70px;
+    padding: 1rem 2rem;
+    margin-top: 300px;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 650px;
+
+}
