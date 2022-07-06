@@ -5,9 +5,9 @@
 }
 
 .header {
-    min-height: 100vh;
+    min-height: 550px;
     width: 100%;
-    background-image: url(images/donation6.jpg);
+    background-image: url(images/donation13.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -173,4 +173,45 @@ p {
 
 .remove {
     margin-bottom: -80px;
+}
+
+.step {
+    display: flex;
+}
+
+.ig {
+    width: 55%;
+    padding-right: 100px;
+    margin-bottom: 20px;
+}
+
+.bold {
+    width: 600;
+    font-size: 36px;
+    padding-left: 90px;
+}
+
+.up {
+
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    padding: 20px;
+    margin-left: 70px;
+    margin-top: 20px;
+
+
+}
+
+.click {
+
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+    margin-left: 80px;
+
+
 }
