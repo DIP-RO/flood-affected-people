@@ -125,6 +125,7 @@ p {
 .font {
     font-size: 36px;
     font-weight: 600;
+    margin-top: 20px;
 }
 
 .row {
@@ -216,6 +217,49 @@ p {
 
 }
 
+.ig3 {
+
+    width: 55%;
+    padding-left: 100px;
+    margin-bottom: 20px;
+
+}
+
+.step6 {
+    display: flex;
+}
+
+.up7 {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    padding: 20px;
+    margin-right: 70px;
+    margin-top: 20px;
+}
+
+.bold4 {
+
+    width: 600;
+    font-size: 36px;
+    padding-left: 90px;
+
+}
+
+.guidlines3 {
+    margin-top: 150px;
+}
+
+.click4 {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+
 .font3 {
     width: 600;
     font-size: 36px;
@@ -283,38 +327,34 @@ p {
 }
 
 .footer1 {
-    background: #fcfcfc;
-    border: solid;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 footer {
-
-    bottom: 0;
-    left: 0;
-    right: 0;
     background: #111;
-    height: auto;
+    height: 300px;
     width: 100vw;
     padding-top: 40px;
     color: #fff;
 }
 
-.footer-content {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-
-}
-
 .footer-content h3 {
-    font-size: 1.8rem;
+    font-size: 32px;
     font-weight: 400;
-    line-height: 3rem;
+    text-align: center;
+    margin-top: 40px;
+    color: #FF5959;
 }
 
-.footer-buttom {
-    background: #000;
-    width: 100vw;
+.footer-content p {
+    font-size: 20px;
+    font-weight: 300;
     text-align: center;
+    margin-bottom: 120px
+}
+
+.footer-buttom p {
+    margin-top: ;
 }
